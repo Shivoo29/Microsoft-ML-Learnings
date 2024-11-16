@@ -72,7 +72,7 @@ If you find these materials helpful or have suggestions for improvement, feel fr
 
 Feel free to reach out if you have questions or just want to chat about ML:
 - **GitHub**: [Shivoo29](https://github.com/Shivoo29)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shivam-kumar-jha-35686a238/)
+- **LinkedIn**: [Shivam Kumar Jha](https://www.linkedin.com/in/shivam-kumar-jha-35686a238/)
 
 ---
 
