@@ -48,7 +48,7 @@ Machine Learning is a vast and exciting domain. As a beginner, I faced challenge
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/Shivoo/Microsoft-ML-Learnings.git
+   git clone https://github.com/Shivoo29/Microsoft-ML-Learnings.git
    cd Microsoft-ML-Learnings
    ```
 
